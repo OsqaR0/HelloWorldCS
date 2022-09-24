@@ -1,0 +1,15 @@
+D:\Programowanie\C#\HelloWorldCS\bin\Debug\net6.0\HelloWorldCS.exe
+D:\Programowanie\C#\HelloWorldCS\bin\Debug\net6.0\HelloWorldCS.deps.json
+D:\Programowanie\C#\HelloWorldCS\bin\Debug\net6.0\HelloWorldCS.runtimeconfig.json
+D:\Programowanie\C#\HelloWorldCS\bin\Debug\net6.0\HelloWorldCS.dll
+D:\Programowanie\C#\HelloWorldCS\bin\Debug\net6.0\HelloWorldCS.pdb
+D:\Programowanie\C#\HelloWorldCS\obj\Debug\net6.0\HelloWorldCS.csproj.AssemblyReference.cache
+D:\Programowanie\C#\HelloWorldCS\obj\Debug\net6.0\HelloWorldCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programowanie\C#\HelloWorldCS\obj\Debug\net6.0\HelloWorldCS.AssemblyInfoInputs.cache
+D:\Programowanie\C#\HelloWorldCS\obj\Debug\net6.0\HelloWorldCS.AssemblyInfo.cs
+D:\Programowanie\C#\HelloWorldCS\obj\Debug\net6.0\HelloWorldCS.csproj.CoreCompileInputs.cache
+D:\Programowanie\C#\HelloWorldCS\obj\Debug\net6.0\HelloWorldCS.dll
+D:\Programowanie\C#\HelloWorldCS\obj\Debug\net6.0\refint\HelloWorldCS.dll
+D:\Programowanie\C#\HelloWorldCS\obj\Debug\net6.0\HelloWorldCS.pdb
+D:\Programowanie\C#\HelloWorldCS\obj\Debug\net6.0\HelloWorldCS.genruntimeconfig.cache
+D:\Programowanie\C#\HelloWorldCS\obj\Debug\net6.0\ref\HelloWorldCS.dll
